@@ -1,2 +1,5 @@
 pydantic - Python library for data validation and parsing using type hints.
      describe the shape of your data with types, and Pydantic checks that inputs match and converts them when possible.
+
+priority queue - is a special type of queue where each item has a priority, and items are removed based on their priority 
+     - not just the order they were added.
