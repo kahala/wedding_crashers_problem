@@ -3,3 +3,5 @@ pydantic - Python library for data validation and parsing using type hints.
 
 priority queue - is a special type of queue where each item has a priority, and items are removed based on their priority 
      - not just the order they were added.
+
+Event-driven programming - a programming style where the flow of the program is controlled by events instead of a fixed sequence of instructions.
