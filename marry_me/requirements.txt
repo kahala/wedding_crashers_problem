@@ -1,1 +1,2 @@
-pydantic
+pydantic - Python library for data validation and parsing using type hints.
+     describe the shape of your data with types, and Pydantic checks that inputs match and converts them when possible.
